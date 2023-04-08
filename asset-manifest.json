@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FrontEndMentor-Challange25/static/css/main.53770eb8.css",
-    "main.js": "/FrontEndMentor-Challange25/static/js/main.61f13836.js",
+    "main.css": "/FrontEndMentor-Challange25/static/css/main.c7284b95.css",
+    "main.js": "/FrontEndMentor-Challange25/static/js/main.740d448b.js",
     "static/js/787.28cb0dcd.chunk.js": "/FrontEndMentor-Challange25/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/FrontEndMentor-Challange25/index.html",
     "static/media/icon-reaction.svg": "/FrontEndMentor-Challange25/static/media/icon-reaction.0c1d6b98b4559ba72276d9ceda14692d.svg",
-    "main.53770eb8.css.map": "/FrontEndMentor-Challange25/static/css/main.53770eb8.css.map",
-    "main.61f13836.js.map": "/FrontEndMentor-Challange25/static/js/main.61f13836.js.map",
+    "main.c7284b95.css.map": "/FrontEndMentor-Challange25/static/css/main.c7284b95.css.map",
+    "main.740d448b.js.map": "/FrontEndMentor-Challange25/static/js/main.740d448b.js.map",
     "787.28cb0dcd.chunk.js.map": "/FrontEndMentor-Challange25/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53770eb8.css",
-    "static/js/main.61f13836.js"
+    "static/css/main.c7284b95.css",
+    "static/js/main.740d448b.js"
   ]
 }

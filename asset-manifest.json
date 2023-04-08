@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FrontEndMentor-Challange25/static/css/main.1ab572f8.css",
-    "main.js": "/FrontEndMentor-Challange25/static/js/main.fb58e6af.js",
+    "main.css": "/FrontEndMentor-Challange25/static/css/main.3fdb0604.css",
+    "main.js": "/FrontEndMentor-Challange25/static/js/main.3af942b4.js",
     "static/js/787.28cb0dcd.chunk.js": "/FrontEndMentor-Challange25/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/FrontEndMentor-Challange25/index.html",
     "static/media/icon-reaction.svg": "/FrontEndMentor-Challange25/static/media/icon-reaction.0c1d6b98b4559ba72276d9ceda14692d.svg",
-    "main.1ab572f8.css.map": "/FrontEndMentor-Challange25/static/css/main.1ab572f8.css.map",
-    "main.fb58e6af.js.map": "/FrontEndMentor-Challange25/static/js/main.fb58e6af.js.map",
+    "main.3fdb0604.css.map": "/FrontEndMentor-Challange25/static/css/main.3fdb0604.css.map",
+    "main.3af942b4.js.map": "/FrontEndMentor-Challange25/static/js/main.3af942b4.js.map",
     "787.28cb0dcd.chunk.js.map": "/FrontEndMentor-Challange25/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ab572f8.css",
-    "static/js/main.fb58e6af.js"
+    "static/css/main.3fdb0604.css",
+    "static/js/main.3af942b4.js"
   ]
 }

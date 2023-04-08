@@ -30,7 +30,7 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL: [Manage Landing page](https://yanniro2.github.io/)
+- Live Site URL: [View](https://yanniro2.github.io/FrontEndMentor-Challange25)
 
 ## My process
 
